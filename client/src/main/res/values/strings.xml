@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Base Project</string>
+    <string name="s_a">Modify</string>
+
+    <string name="username">Username: %1$s </string>
+    <string name="password">Password: %1$s </string>
+    <string name="website">Website: %1$s </string>
+    <string name="address">Address: %1$s </string>
+    <string name="payment_info">Payment method: %1$s </string>
+
+    <string name="empty_data">No data found</string>
+</resources>

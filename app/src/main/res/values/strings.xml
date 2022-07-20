@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">SharedPreference</string>
+    <string name="username">Username:</string>
+    <string name="input_your_username">Input your username</string>
+    <string name="password">Password:</string>
+    <string name="input_your_password">Input your password</string>
+    <string name="website">Website:</string>
+    <string name="input_your_website">Input your website</string>
+    <string name="address">Address:</string>
+    <string name="input_your_address">Input your address</string>
+    <string name="payment_info">Payment info</string>
+    <string name="account">Account:</string>
+    <string name="input_your_bank_account">Input your bank account</string>
+    <string name="save">save</string>
+
+    <string-array name="payment_method">
+        <item>Không có</item>
+        <item>Qua tài khoản</item>
+        <item>Online banking</item>
+    </string-array>
 </resources>
